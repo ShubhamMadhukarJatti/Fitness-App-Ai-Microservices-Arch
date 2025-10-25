@@ -5,8 +5,6 @@ This is the Official repository of **Java Spring Boot AI Full Stack Microservice
 Welcome to your one-stop-shop for mastering Java and Spring Boot! This repository offers a comprehensive learning experience with high-quality resources and community support. Dive into over 150+ hours of premium content, with everything you need to excel at Java and Spring Boot development.
 
 ## 🎓 Learning Roadmap
-
-Most of the courses below are available in **Udemy For Business**, so if you have subscription - you can get FREE access.
 Here’s a structured path to enhance your skills with detailed courses available:
 
 1. **[Spring Boot By Building Complex Projects Step by Step] (85+ Hours of Content)**
