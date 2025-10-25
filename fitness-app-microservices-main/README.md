@@ -9,11 +9,11 @@ Welcome to your one-stop-shop for mastering Java and Spring Boot! This repositor
 Most of the courses below are available in **Udemy For Business**, so if you have subscription - you can get FREE access.
 Here’s a structured path to enhance your skills with detailed courses available:
 
-1. **[Spring Boot By Building Complex Projects Step by Step](https://link.embarkx.com/spring-boot) (85+ Hours of Content)**
-2. **[Master Spring Boot Microservices by Building eCommerce Project](https://link.embarkx.com/microservices) (55+ Hours of Content)**
-3. **[Learn Java with 60+ Hours of Content](http://link.embarkx.com/java) (60+ Hours of Content)**
-4. **[Master Spring Security with React JS + OAuth2](https://link.embarkx.com/spring-security) (34+ Hours of Content)**
-5. **[Master IntelliJ IDEA](http://link.embarkx.com/intellij) (3+ Hours of Content)**
+1. **[Spring Boot By Building Complex Projects Step by Step] (85+ Hours of Content)**
+2. **[Master Spring Boot Microservices by Building eCommerce Project](55+ Hours of Content)**
+3. **[Learn Java with 60+ Hours of Content] (60+ Hours of Content)**
+4. **[Master Spring Security with React JS + OAuth2](34+ Hours of Content)**
+5. **[Master IntelliJ IDEA] (3+ Hours of Content)**
 
 
 ## 🌟 With All Our Courses You Gain Access To
@@ -40,8 +40,8 @@ Start your journey today to become a master at Java and Spring Boot. Our communi
 
 ## Instructor Information
 
-**Instructor:** Faisal Memon  
-**Company:** [EmbarkX.com](http://www.embarkx.com)
+**Instructor:** 
+**Company:** 
 
 ## Policy Overview
 
@@ -61,8 +61,7 @@ All course materials are protected by copyright laws and are the intellectual pr
 
 ### 4. Reporting Violations
 
-If you become aware of any unauthorized sharing or distribution of course materials, please report it immediately to [embarkxofficial@gmail.com](mailto:embarkxofficial@gmail.com).
-
+If you become aware of any unauthorized sharing or distribution of course materials, please report it immediately to 
 ### 5. Legal Action
 
 We reserve the right to take legal action against individuals or entities found to be violating this usage policy.
